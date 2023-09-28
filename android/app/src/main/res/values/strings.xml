@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">FruitMarket</string>
+<string name="facebook_app_id">246651371215533</string>
+<string name="fb_login_protocol_scheme">fb1234</string>
+<string name="facebook_client_token">8b5565190c1717be2da8515cb05aa6bd</string>
+</resources>
+
